@@ -30,7 +30,7 @@ yarn
 
 ```bash
 #npm
-serviço de execução npm
+npm run serve
 
 # yarn
  yarn server
